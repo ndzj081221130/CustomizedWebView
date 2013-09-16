@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomizedWebView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="main_info_resume">resume</string>
+	<string name="main_info_cancel">cacel</string>
+	<string name="main_info_title"></string>
+	<string name="formResubmission">Form Resubmission</string>
+	<string name="loadResouce">Load Resource</string>
+	
+	<string name="urlLoadingTitle">URL Loading</string>
+	<string name="pageFinishedTitle">PageFinished</string>
+	<string name="pageStartedTitle">PageStarted</string>
+	<string name="receiveError">ReceiveError</string>
+	<string name="receivedHttpAuthRequest">Recieved HttpAuthRequest</string>
+	<string name="receivedLoginRequest">Received Login Request</string>
+	<string name="receivedSslError">Received Ssl Error</string>
+	<string name="scaleChanged">Scale Changed</string>
+ </resources>
